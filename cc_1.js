@@ -1,1 +1,7 @@
-let employeeName = "Jack"
+let employeeName = "Jack";
+const employeeID = "23";
+var isActive = true;
+console.log("Employee Name: " + employeeName + ", Type: " + typeof employeeName);
+console.log("Employee ID: " + employeeID + ", Type: " + typeof employeeID);
+console.log("Is Active: " + isActive + ", Type: " + typeof isActive);
+
