@@ -15,8 +15,7 @@ console.log(productPrice)
 console.log(isAvailable)
 
 //Task 3 - Financial Transactions.
-let accountBalanace = 13;
-accountBalanace = accountBalanace + 5;
+let accountBalanace = 13; 
 console.log(accountBalanace)
 console.log(accountBalanace + 5)
 
