@@ -1,5 +1,5 @@
 let employeeName = "Jack";
-const employeeID = "23";
+const employeeID = 23;
 var isActive = true;
 console.log(typeof employeeName)
 console.log(typeof employeeID)
