@@ -20,7 +20,7 @@ accountBalanace = accountBalanace + 5;
 console.log(accountBalanace)
 console.log(accountBalanace + 5)
 
-//Task 4 - Customer Messaging
+//Task 4 - Customer Messaging.
 let customerName = "Mike";
 let welcome = "Hello";
 let welcomeMessage = welcome + customerName;
