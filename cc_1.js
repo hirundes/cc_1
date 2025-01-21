@@ -27,7 +27,7 @@ let welcomeMessage = welcome + customerName;
 console.log(customerName)
 console.log(welcomeMessage)
 
-//Task 5 - Access Control
+//Task 5 - Access Control.
 let isLoggedIn = true;
 console.log(false || true)
 
