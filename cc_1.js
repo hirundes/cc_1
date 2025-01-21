@@ -8,11 +8,13 @@ console.log(typeof isActive)
 
 // Task 2 - Product Details
 let productName = "NiceBottle";
-const productPrice = 15
+const productPrice = 15;
 var isAvailable = true;
 console.log(typeof productName)
 console.log(typeof productPrice)
 console.log(typeof isAvailable)
+
+
 
 
 
