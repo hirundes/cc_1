@@ -1,3 +1,4 @@
+// Task 1 - Employee Information
 let employeeName = "Jack";
 const employeeID = 23;
 var isActive = true;
