@@ -6,7 +6,7 @@ console.log(typeof employeeName)
 console.log(typeof employeeID)
 console.log(typeof isActive)
 
-// Task 2 - Product Price
+// Task 2 - Product Price.
 let productName = "NiceBottle";
 const productPrice = 15;
 var isAvailable = true;
